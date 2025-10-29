@@ -1,0 +1,7 @@
+# Core framework
+streamlit>=1.40.0
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.24.0
+
